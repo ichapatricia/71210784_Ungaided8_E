@@ -1,0 +1,2 @@
+Jawabannya adalah gelas 2, karena gelas 2 dan gelas 6 tidak terhubung pada gelas 1 dan 5. Kemudian sedotan pada gelas 
+3 tertutup. Dan untuk mengisi penuh gelas nomor 6, gelas nomor 2 harus lebih dahulu terisi penuh.
