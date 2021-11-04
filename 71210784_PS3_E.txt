@@ -1,0 +1,8 @@
+Bilangan Fibbonachi adalah angka dari hasil penjumlahkan 2 angka pada 2 bilangan pertama
+Un lebih dari sama dengan U3
+Dimana Un = U(n-2) + U(n-1)
+
+If Un lebih dari sama dengan U3 then fibbonachi (Un) = U(n-2) + U(n-1)
+ Tampilan "fibbonachi (Un)= U(n-2) + U(n-1)"
+Else Un kurang dari U3 
+Tampilan " fibbonachi (Un) = Un + U(n-1)" 
